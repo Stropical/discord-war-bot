@@ -1,0 +1,8 @@
+Command: !joingang <gang name>
+
+
+Response: Succesfully joined gang!
+      Or: Could not find gang.
+
+      
+      
